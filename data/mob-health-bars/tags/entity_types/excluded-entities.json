@@ -1,0 +1,42 @@
+{
+    "values": [
+        "experience_orb",
+        "falling_block",
+        "item",
+        "player",
+        "experience_bottle",
+        "potion",
+        "area_effect_cloud",
+        "armor_stand",
+        "#arrows",
+        "#mob-health-bars:minecarts",
+        "lightning_bolt",
+        "llama_spit",
+        "tnt",
+        "trident",
+        "wither_skull",
+        "dragon_fireball",
+        "firework_rocket",
+        "fishing_bobber",
+        "item_frame",
+        "shulker_bullet",
+        "egg",
+        "end_crystal",
+        "fireball",
+        "small_fireball",
+        "wither",
+        "ender_dragon",
+        "evoker_fangs",
+        "glow_item_frame",
+        "snowball",
+        "tropical_fish",
+        "salmon",
+        "pufferfish",
+        "cod",
+        "leash_knot",
+        "boat"
+    ]
+}
+
+
+

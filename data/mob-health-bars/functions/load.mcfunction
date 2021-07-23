@@ -1,0 +1,1 @@
+function mob-health-bars:bossbars/initialize
