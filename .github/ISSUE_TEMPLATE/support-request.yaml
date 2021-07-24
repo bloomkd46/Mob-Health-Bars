@@ -31,7 +31,7 @@ body:
     attributes:
       label: "Log Ouput:"
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      placeholder: Show the Minecraft logs here if possible. Replace any sensitive information with *'s'.
+      placeholder: Show the Minecraft logs here if possible. Replace any sensitive information with *'s.
       render: shell
     validations:
       required: false
