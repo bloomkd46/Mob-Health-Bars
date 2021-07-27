@@ -9,7 +9,7 @@
         "area_effect_cloud",
         "armor_stand",
         "#arrows",
-        "#mob-health-bars:minecarts",
+        "#minecarts",
         "lightning_bolt",
         "llama_spit",
         "tnt",
@@ -35,7 +35,9 @@
         "cod",
         "leash_knot",
         "boat",
-        "ender_pearl"
+        "ender_pearl",
+        "eye_of_ender",
+        "marker"
         
         
     ]
